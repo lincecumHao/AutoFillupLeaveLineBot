@@ -1,0 +1,23 @@
+{
+  "name": "linebot",
+  "version": "1.0.0",
+  "description": "This is a side project for my company had more convenient way to fill up the leave table.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lincecumHao/AutoFillupLeaveLineBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lincecumHao/AutoFillupLeaveLineBot/issues"
+  },
+  "homepage": "https://github.com/lincecumHao/AutoFillupLeaveLineBot#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}
